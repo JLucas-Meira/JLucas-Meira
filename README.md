@@ -1,7 +1,14 @@
-Olá! Sou João Lucas, estudante de Engenharia de Software e aspirante a desenvolvedor backend.
-Atualmente, estou aprofundando meus conhecimentos em Python e Django, com foco no desenvolvimento de APIs robustas e seguras, além de explorar boas práticas de arquitetura e bancos de dados.
+🎓 Estudante de Engenharia de Software | 💻 Aspirante a Desenvolvedor Backend
 
-Aqui no meu GitHub, compartilho projetos que refletem minha paixão por resolver problemas e construir soluções eficientes. Sempre aberto a colaborar e aprender algo novo.
+Atualmente, estou focado em aprofundar meus conhecimentos em Java e Python, explorando o desenvolvimento de APIs robustas, arquitetura de software e bancos de dados. Além disso, estou expandindo meus horizontes para frontend, buscando aprender tecnologias que complementem meu perfil fullstack.
 
-Como me encontrar:
+Aqui no meu GitHub, compartilho projetos que refletem minha paixão por resolver problemas e construir soluções eficientes. Sempre aberto a novos desafios e colaborações! 🚀
+
+🔧 Tecnologias e interesses:
+• Backend: Java, Python, Django, Spring Boot (em aprendizado)
+• Banco de Dados: PostgreSQL, MySQL
+• Frontend: Explorando opções para iniciar (React, Vue ou Angular)
+• Ferramentas: Git, GitHub
+
+📫 Como me encontrar:
 https://www.linkedin.com/in/joaolucasmeira/
