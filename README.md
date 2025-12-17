@@ -1,4 +1,4 @@
-### Olá! Sou o João Lucas Meira 👋
+### Olá! Sou João Lucas 👋
 
 Sou estudante de **Engenharia de Software** (4º semestre), focado no desenvolvimento **Backend** com o ecossistema Java.
 
